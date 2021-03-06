@@ -1,0 +1,28 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "zzcblog.asia.cdn.dnsv1.com",
+    "domain": "http://zzcblog.asia",
+    "email": "1028637847@qq.com",
+    "platform": "coding",
+    "repository": "zzczz/gridea_blog",
+    "token": "d51f29050e9b249d4fa5c3a5c8be4d25ae34356c",
+    "tokenUsername": "MkhaRoWcqB",
+    "username": "zzczz"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
