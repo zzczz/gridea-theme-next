@@ -26,16 +26,16 @@ MySQL入门教程
 #### 第1章 初识MySQL
 
 - 1.1 [数据库基础](http://zzcblog.asia/post/mysql-1.1/)
-    - [什么是数据库](mysql/chapter1/1.1.md#什么是数据库)
-    - [数据库分类](mysql/chapter1/1.1.md#数据库分类)
-    - [数据库模型](mysql/chapter1/1.1.md#数据库模型)
-    - [数据表](mysql/chapter1/1.1.md#数据表)
-    - [关系键](mysql/chapter1/1.1.md#关系键)
-- 1.2 [数据库技术构成](mysql/chapter1/1.2.md)
-    - [数据库系统](mysql/chapter1/1.2.md#数据库系统)
-    - [关系数据库基本概念](mysql/chapter1/1.2.md#关系数据库基本概念)
-    - [SQL语言](mysql/chapter1/1.2.md#sql语言)
-    - [数据库访问技术](mysql/chapter1/1.2.md#数据库访问技术)
+    - 什么是数据库
+    - 数据库分类
+    - 数据库模型
+    - 数据表
+    - 关系键
+- 1.2 [数据库技术构成](http://zzcblog.asia/post/mysql-1.2/)
+    - 数据库系统
+    - 关系数据库基本概念
+    - SQL语言
+    - 数据库访问技术
 - 1.3 [什么是MySQL](mysql/chapter1/1.3.md)
     - [MySQL介绍](mysql/chapter1/1.3.md#mysql-介绍)
     - [MySQL发展历史](mysql/chapter1/1.3.md#mysql-发展历史)
